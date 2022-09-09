@@ -1,5 +1,6 @@
 # Variable-Intensity-LED
 Used a Bare AtMega328P IC to implement a variable intensity LED. The entire circuit could be powered by a battery.
+
 The project was made as an assignment for the course ECE231- Intro to Embedded systems. The course was taken in Spring22 at University of Massachusetts, Amherst. The professor was Dr. David McLaughlin.
 
 
